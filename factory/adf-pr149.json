@@ -1,0 +1,9 @@
+{
+	"name": "adf-pr149",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb01053a-4b38-468e-b666-4750d4149838",
+		"tenantId": "e45db45b-8958-4c97-a103-21b95a4f8253"
+	}
+}
